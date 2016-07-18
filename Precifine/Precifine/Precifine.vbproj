@@ -1,0 +1,528 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{86EFA50A-EAB8-4992-B051-974B00A314B2}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>WindowsApplication1.My.MyApplication</StartupObject>
+    <RootNamespace>WindowsApplication1</RootNamespace>
+    <AssemblyName>Precifine</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Precifine.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Precifine.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>
+    </ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CustomGridView">
+      <HintPath>..\..\CustomGridView\CustomGridView\bin\Debug\CustomGridView.dll</HintPath>
+    </Reference>
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Codesheet.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Codesheet.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Config\AssemblyRatesdetails.Designer.vb">
+      <DependentUpon>AssemblyRatesdetails.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Config\AssemblyRatesdetails.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Config\Assemblers.Designer.vb">
+      <DependentUpon>Assemblers.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Config\Assemblers.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Config\Assemblersdetails.Designer.vb">
+      <DependentUpon>Assemblersdetails.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Config\Assemblersdetails.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Config\CompanyYearsdetails.Designer.vb">
+      <DependentUpon>CompanyYearsdetails.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Config\CompanyYearsdetails.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Config\AccountBook.Designer.vb">
+      <DependentUpon>AccountBook.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Config\AccountBook.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Config\AccountBookdetails.Designer.vb">
+      <DependentUpon>AccountBookdetails.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Config\AccountBookdetails.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Config\AssemblyRates.Designer.vb">
+      <DependentUpon>AssemblyRates.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Config\AssemblyRates.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Config\CompanyYears.Designer.vb">
+      <DependentUpon>CompanyYears.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Config\CompanyYears.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Config\Config.Designer.vb">
+      <DependentUpon>Config.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Config\Config.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Config\Suppliers.Designer.vb">
+      <DependentUpon>Suppliers.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Config\Suppliers.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Connection.vb" />
+    <Compile Include="Config\ListCustomers.Designer.vb">
+      <DependentUpon>ListCustomers.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Config\ListCustomers.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Entry\Custsel.Designer.vb">
+      <DependentUpon>Custsel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Entry\Custsel.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Items\CSheet.Designer.vb">
+      <DependentUpon>CSheet.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Items\CSheet.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Entry\Productsel.Designer.vb">
+      <DependentUpon>Productsel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Entry\Productsel.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Entry\Quotation.Designer.vb">
+      <DependentUpon>Quotation.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Entry\Quotation.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Entry\QuotationMenu.Designer.vb">
+      <DependentUpon>QuotationMenu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Entry\QuotationMenu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Items\Itemaddsub.Designer.vb">
+      <DependentUpon>Itemaddsub.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Items\Itemaddsub.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Items\ItemProperties.Designer.vb">
+      <DependentUpon>ItemProperties.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Items\ItemProperties.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Items\ItemPropertiesdetails.Designer.vb">
+      <DependentUpon>ItemPropertiesdetails.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Items\ItemPropertiesdetails.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Items\Items.Designer.vb">
+      <DependentUpon>Items.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Items\Items.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Items\Itemsel.Designer.vb">
+      <DependentUpon>Itemsel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Items\Itemsel.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Items\Labelling.Designer.vb">
+      <DependentUpon>Labelling.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Items\Labelling.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="log.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="log.Designer.vb">
+      <DependentUpon>log.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Entry\Main.Designer.vb">
+      <DependentUpon>Main.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Entry\Main.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="PrecifineDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PrecifineDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Config\Userdetails.Designer.vb">
+      <DependentUpon>Userdetails.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Config\Userdetails.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Config\Users.Designer.vb">
+      <DependentUpon>Users.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Config\Users.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Config\ReferredBy.Designer.vb">
+      <DependentUpon>ReferredBy.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Config\ReferredBy.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Config\ReferredByDetails.Designer.vb">
+      <DependentUpon>ReferredByDetails.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Config\ReferredByDetails.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Config\Signatories.Designer.vb">
+      <DependentUpon>Signatories.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Config\Signatories.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Config\Signatoriesdetails.Designer.vb">
+      <DependentUpon>Signatoriesdetails.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Config\Signatoriesdetails.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Config\Tax.Designer.vb">
+      <DependentUpon>Tax.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Config\Tax.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Config\Taxdetails.Designer.vb">
+      <DependentUpon>Taxdetails.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Config\Taxdetails.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Config\Units.Designer.vb">
+      <DependentUpon>Units.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Config\Units.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Config\UnitsDetails.Designer.vb">
+      <DependentUpon>UnitsDetails.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Config\UnitsDetails.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Entry\ProductIdentifier.Designer.vb">
+      <DependentUpon>ProductIdentifier.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Entry\ProductIdentifier.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Codesheet.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Codesheet.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Config\Assemblers.resx">
+      <DependentUpon>Assemblers.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Config\Assemblersdetails.resx">
+      <DependentUpon>Assemblersdetails.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Config\CompanyYearsdetails.resx">
+      <DependentUpon>CompanyYearsdetails.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Config\AccountBook.resx">
+      <DependentUpon>AccountBook.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Config\AccountBookdetails.resx">
+      <DependentUpon>AccountBookdetails.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Config\AssemblyRates.resx">
+      <DependentUpon>AssemblyRates.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Config\AssemblyRatesdetails.resx">
+      <DependentUpon>AssemblyRatesdetails.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Config\CompanyYears.resx">
+      <DependentUpon>CompanyYears.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Config\Config.resx">
+      <DependentUpon>Config.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Config\ListCustomers.resx">
+      <DependentUpon>ListCustomers.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Config\Suppliers.resx">
+      <DependentUpon>Suppliers.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Entry\Custsel.resx">
+      <DependentUpon>Custsel.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Items\CSheet.resx">
+      <DependentUpon>CSheet.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Entry\Productsel.resx">
+      <DependentUpon>Productsel.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Entry\Quotation.resx">
+      <DependentUpon>Quotation.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Entry\QuotationMenu.resx">
+      <DependentUpon>QuotationMenu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Items\Itemaddsub.resx">
+      <DependentUpon>Itemaddsub.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Items\ItemProperties.resx">
+      <DependentUpon>ItemProperties.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Items\ItemPropertiesdetails.resx">
+      <DependentUpon>ItemPropertiesdetails.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Items\Items.resx">
+      <DependentUpon>Items.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Items\Itemsel.resx">
+      <DependentUpon>Itemsel.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Items\Labelling.resx">
+      <DependentUpon>Labelling.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="log.resx">
+      <DependentUpon>log.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Entry\Main.resx">
+      <DependentUpon>Main.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Config\Userdetails.resx">
+      <DependentUpon>Userdetails.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Config\Users.resx">
+      <DependentUpon>Users.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Config\ReferredBy.resx">
+      <DependentUpon>ReferredBy.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Config\ReferredByDetails.resx">
+      <DependentUpon>ReferredByDetails.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Config\Signatories.resx">
+      <DependentUpon>Signatories.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Config\Signatoriesdetails.resx">
+      <DependentUpon>Signatoriesdetails.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Config\Tax.resx">
+      <DependentUpon>Tax.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Config\Taxdetails.resx">
+      <DependentUpon>Taxdetails.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Config\Units.resx">
+      <DependentUpon>Units.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Config\UnitsDetails.resx">
+      <DependentUpon>UnitsDetails.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Entry\ProductIdentifier.resx">
+      <DependentUpon>ProductIdentifier.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="PrecifineDataSet.xsc">
+      <DependentUpon>PrecifineDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="PrecifineDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>PrecifineDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="PrecifineDataSet.xss">
+      <DependentUpon>PrecifineDataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Sql.Server.Express.10.0">
+      <Visible>False</Visible>
+      <ProductName>SQL Server 2008 Express</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.4.5">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 4.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

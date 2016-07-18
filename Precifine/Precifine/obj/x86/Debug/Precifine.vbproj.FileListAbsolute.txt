@@ -1,0 +1,592 @@
+C:\Users\admin\Documents\Visual Studio 2010\Projects\Precifine\Precifine\bin\Debug\Precifine.exe
+C:\Users\admin\Documents\Visual Studio 2010\Projects\Precifine\Precifine\bin\Debug\Precifine.pdb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\Precifine\Precifine\bin\Debug\Precifine.xml
+C:\Users\admin\Documents\Visual Studio 2010\Projects\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.frmlog.resources
+C:\Users\admin\Documents\Visual Studio 2010\Projects\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Main.resources
+C:\Users\admin\Documents\Visual Studio 2010\Projects\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2010\Projects\Precifine\Precifine\obj\x86\Debug\Precifine.vbproj.GenerateResource.Cache
+C:\Users\admin\Documents\Visual Studio 2010\Projects\Precifine\Precifine\obj\x86\Debug\Precifine.exe
+C:\Users\admin\Documents\Visual Studio 2010\Projects\Precifine\Precifine\obj\x86\Debug\Precifine.xml
+C:\Users\admin\Documents\Visual Studio 2010\Projects\Precifine\Precifine\obj\x86\Debug\Precifine.pdb
+E:\Precifine\Precifine\obj\x86\Debug\Precifine.exe
+E:\Precifine\Precifine\obj\x86\Debug\Precifine.xml
+E:\Precifine\Precifine\obj\x86\Debug\Precifine.pdb
+E:\Precifine\Precifine\bin\Debug\Precifine.exe
+E:\Precifine\Precifine\bin\Debug\Precifine.pdb
+E:\Precifine\Precifine\bin\Debug\Precifine.xml
+E:\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.frmlog.resources
+E:\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Main.resources
+E:\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\Precifine\Precifine\obj\x86\Debug\Precifine.vbproj.GenerateResource.Cache
+E:\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.CompanyYears.resources
+C:\Users\admin\Desktop\Precifine\Precifine\obj\x86\Debug\Precifine.exe
+C:\Users\admin\Desktop\Precifine\Precifine\obj\x86\Debug\Precifine.xml
+C:\Users\admin\Desktop\Precifine\Precifine\obj\x86\Debug\Precifine.pdb
+C:\Users\admin\Desktop\Precifine\Precifine\bin\Debug\Precifine.exe
+C:\Users\admin\Desktop\Precifine\Precifine\bin\Debug\Precifine.pdb
+C:\Users\admin\Desktop\Precifine\Precifine\bin\Debug\Precifine.xml
+C:\Users\admin\Desktop\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.CompanyYears.resources
+C:\Users\admin\Desktop\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.frmlog.resources
+C:\Users\admin\Desktop\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Main.resources
+C:\Users\admin\Desktop\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\admin\Desktop\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.SplashScreen1.resources
+C:\Users\admin\Desktop\Precifine\Precifine\obj\x86\Debug\Precifine.vbproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Precifine\Precifine\obj\x86\Debug\Precifine.exe
+C:\Users\Lenovo\Desktop\Precifine\Precifine\obj\x86\Debug\Precifine.xml
+C:\Users\Lenovo\Desktop\Precifine\Precifine\obj\x86\Debug\Precifine.pdb
+C:\Users\Lenovo\Desktop\Precifine\Precifine\bin\Debug\Precifine.exe
+C:\Users\Lenovo\Desktop\Precifine\Precifine\bin\Debug\Precifine.pdb
+C:\Users\Lenovo\Desktop\Precifine\Precifine\bin\Debug\Precifine.xml
+C:\Users\Lenovo\Desktop\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.CompanyYears.resources
+C:\Users\Lenovo\Desktop\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.frmlog.resources
+C:\Users\Lenovo\Desktop\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Main.resources
+C:\Users\Lenovo\Desktop\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Lenovo\Desktop\Precifine\Precifine\obj\x86\Debug\Precifine.vbproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Config.resources
+C:\Users\Lenovo\Desktop\Precifine\Precifine\bin\Debug\Database\Precifine.mdf
+C:\Users\Lenovo\Desktop\Precifine\Precifine\bin\Debug\Database\Precifine_log.ldf
+C:\Users\Lenovo\Desktop\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Users.resources
+C:\Users\Santy\Desktop\Precifine\Precifine\obj\x86\Debug\Precifine.exe
+C:\Users\Santy\Desktop\Precifine\Precifine\obj\x86\Debug\Precifine.xml
+C:\Users\Santy\Desktop\Precifine\Precifine\obj\x86\Debug\Precifine.pdb
+C:\Users\Santy\Desktop\Precifine\Precifine\bin\Debug\Database\Precifine.mdf
+C:\Users\Santy\Desktop\Precifine\Precifine\bin\Debug\Database\Precifine_log.ldf
+C:\Users\Santy\Desktop\Precifine\Precifine\bin\Debug\Precifine.exe
+C:\Users\Santy\Desktop\Precifine\Precifine\bin\Debug\Precifine.pdb
+C:\Users\Santy\Desktop\Precifine\Precifine\bin\Debug\Precifine.xml
+C:\Users\Santy\Desktop\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.CompanyYears.resources
+C:\Users\Santy\Desktop\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Config.resources
+C:\Users\Santy\Desktop\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Users.resources
+C:\Users\Santy\Desktop\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.frmlog.resources
+C:\Users\Santy\Desktop\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Main.resources
+C:\Users\Santy\Desktop\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Santy\Desktop\Precifine\Precifine\obj\x86\Debug\Precifine.vbproj.GenerateResource.Cache
+C:\Users\Santy\Desktop\Precifine\Precifine\bin\Debug\Precifine.exe.config
+C:\Users\Santy\Desktop\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Userdetails.resources
+E:\Precifine\Precifine\bin\Debug\Precifine.exe.config
+E:\Precifine\Precifine\bin\Debug\Database\Precifine.mdf
+E:\Precifine\Precifine\bin\Debug\Database\Precifine_log.ldf
+E:\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Config.resources
+E:\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Userdetails.resources
+E:\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Users.resources
+C:\Users\Janak\Desktop\New folder\Precifine\Precifine\bin\Debug\Precifine.exe.config
+C:\Users\Janak\Desktop\New folder\Precifine\Precifine\obj\x86\Debug\Precifine.exe
+C:\Users\Janak\Desktop\New folder\Precifine\Precifine\obj\x86\Debug\Precifine.xml
+C:\Users\Janak\Desktop\New folder\Precifine\Precifine\obj\x86\Debug\Precifine.pdb
+C:\Users\Janak\Desktop\New folder\Precifine\Precifine\bin\Debug\Precifine.exe
+C:\Users\Janak\Desktop\New folder\Precifine\Precifine\bin\Debug\Precifine.pdb
+C:\Users\Janak\Desktop\New folder\Precifine\Precifine\bin\Debug\Precifine.xml
+C:\Users\Janak\Desktop\New folder\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.CompanyYears.resources
+C:\Users\Janak\Desktop\New folder\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Config.resources
+C:\Users\Janak\Desktop\New folder\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.frmlog.resources
+C:\Users\Janak\Desktop\New folder\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Main.resources
+C:\Users\Janak\Desktop\New folder\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Janak\Desktop\New folder\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Userdetails.resources
+C:\Users\Janak\Desktop\New folder\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Users.resources
+C:\Users\Janak\Desktop\New folder\Precifine\Precifine\obj\x86\Debug\Precifine.vbproj.GenerateResource.Cache
+E:\Precifine update\Precifine\Precifine\bin\Debug\Precifine.exe.config
+E:\Precifine update\Precifine\Precifine\obj\x86\Debug\Precifine.exe
+E:\Precifine update\Precifine\Precifine\obj\x86\Debug\Precifine.xml
+E:\Precifine update\Precifine\Precifine\obj\x86\Debug\Precifine.pdb
+C:\Users\Lenovo\Desktop\Precifine update\Precifine\Precifine\bin\Debug\Precifine.exe.config
+C:\Users\Lenovo\Desktop\Precifine update\Precifine\Precifine\obj\x86\Debug\Precifine.exe
+C:\Users\Lenovo\Desktop\Precifine update\Precifine\Precifine\obj\x86\Debug\Precifine.xml
+C:\Users\Lenovo\Desktop\Precifine update\Precifine\Precifine\obj\x86\Debug\Precifine.pdb
+C:\Users\Lenovo\Desktop\Precifine update\Precifine\Precifine\bin\Debug\Precifine.exe
+C:\Users\Lenovo\Desktop\Precifine update\Precifine\Precifine\bin\Debug\Precifine.pdb
+C:\Users\Lenovo\Desktop\Precifine update\Precifine\Precifine\bin\Debug\Precifine.xml
+C:\Users\Lenovo\Desktop\Precifine update\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.CompanyYears.resources
+C:\Users\Lenovo\Desktop\Precifine update\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Config.resources
+C:\Users\Lenovo\Desktop\Precifine update\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.frmlog.resources
+C:\Users\Lenovo\Desktop\Precifine update\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Main.resources
+C:\Users\Lenovo\Desktop\Precifine update\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Lenovo\Desktop\Precifine update\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Userdetails.resources
+C:\Users\Lenovo\Desktop\Precifine update\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Users.resources
+C:\Users\Lenovo\Desktop\Precifine update\Precifine\Precifine\obj\x86\Debug\Precifine.vbproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Precifine update\Precifine\Precifine\bin\Debug\CustomGridView.dll
+C:\Users\Lenovo\Desktop\Precifine update\Precifine\Precifine\bin\Debug\CustomGridView.pdb
+C:\Users\Lenovo\Desktop\Precifine update\Precifine\Precifine\bin\Debug\CustomGridView.xml
+C:\Users\Lenovo\Desktop\Precifine update\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.ListCustomers.resources
+C:\Users\Lenovo\Desktop\Precifine update17082015\Precifine\Precifine\bin\Debug\Precifine.exe.config
+C:\Users\Lenovo\Desktop\Precifine update17082015\Precifine\Precifine\obj\x86\Debug\Precifine.exe
+C:\Users\Lenovo\Desktop\Precifine update17082015\Precifine\Precifine\obj\x86\Debug\Precifine.xml
+C:\Users\Lenovo\Desktop\Precifine update17082015\Precifine\Precifine\obj\x86\Debug\Precifine.pdb
+C:\Users\Lenovo\Desktop\Precifine update17082015\Precifine\Precifine\bin\Debug\Precifine.exe
+C:\Users\Lenovo\Desktop\Precifine update17082015\Precifine\Precifine\bin\Debug\Precifine.pdb
+C:\Users\Lenovo\Desktop\Precifine update17082015\Precifine\Precifine\bin\Debug\Precifine.xml
+C:\Users\Lenovo\Desktop\Precifine update17082015\Precifine\Precifine\bin\Debug\CustomGridView.dll
+C:\Users\Lenovo\Desktop\Precifine update17082015\Precifine\Precifine\bin\Debug\CustomGridView.pdb
+C:\Users\Lenovo\Desktop\Precifine update17082015\Precifine\Precifine\bin\Debug\CustomGridView.xml
+C:\Users\Lenovo\Desktop\Precifine update17082015\Precifine\Precifine\obj\x86\Debug\Precifine.vbprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Precifine update17082015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.CompanyYears.resources
+C:\Users\Lenovo\Desktop\Precifine update17082015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Config.resources
+C:\Users\Lenovo\Desktop\Precifine update17082015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.ListCustomers.resources
+C:\Users\Lenovo\Desktop\Precifine update17082015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.frmlog.resources
+C:\Users\Lenovo\Desktop\Precifine update17082015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Main.resources
+C:\Users\Lenovo\Desktop\Precifine update17082015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Lenovo\Desktop\Precifine update17082015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Userdetails.resources
+C:\Users\Lenovo\Desktop\Precifine update17082015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Users.resources
+C:\Users\Lenovo\Desktop\Precifine update17082015\Precifine\Precifine\obj\x86\Debug\Precifine.vbproj.GenerateResource.Cache
+C:\Users\Santy\Desktop\Precifine update18082015\Precifine\Precifine\bin\Debug\Precifine.exe.config
+C:\Users\Santy\Desktop\Precifine update18082015\Precifine\Precifine\obj\x86\Debug\Precifine.exe
+C:\Users\Santy\Desktop\Precifine update18082015\Precifine\Precifine\obj\x86\Debug\Precifine.xml
+C:\Users\Santy\Desktop\Precifine update18082015\Precifine\Precifine\obj\x86\Debug\Precifine.pdb
+C:\Users\Santy\Desktop\Precifine update18082015\Precifine\Precifine\bin\Debug\Precifine.exe
+C:\Users\Santy\Desktop\Precifine update18082015\Precifine\Precifine\bin\Debug\Precifine.pdb
+C:\Users\Santy\Desktop\Precifine update18082015\Precifine\Precifine\bin\Debug\Precifine.xml
+C:\Users\Santy\Desktop\Precifine update18082015\Precifine\Precifine\bin\Debug\CustomGridView.dll
+C:\Users\Santy\Desktop\Precifine update18082015\Precifine\Precifine\bin\Debug\CustomGridView.pdb
+C:\Users\Santy\Desktop\Precifine update18082015\Precifine\Precifine\bin\Debug\CustomGridView.xml
+C:\Users\Santy\Desktop\Precifine update18082015\Precifine\Precifine\obj\x86\Debug\Precifine.vbprojResolveAssemblyReference.cache
+C:\Users\Santy\Desktop\Precifine update18082015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.CompanyYears.resources
+C:\Users\Santy\Desktop\Precifine update18082015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Config.resources
+C:\Users\Santy\Desktop\Precifine update18082015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.ListCustomers.resources
+C:\Users\Santy\Desktop\Precifine update18082015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.frmlog.resources
+C:\Users\Santy\Desktop\Precifine update18082015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Main.resources
+C:\Users\Santy\Desktop\Precifine update18082015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Santy\Desktop\Precifine update18082015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Userdetails.resources
+C:\Users\Santy\Desktop\Precifine update18082015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Users.resources
+C:\Users\Santy\Desktop\Precifine update18082015\Precifine\Precifine\obj\x86\Debug\Precifine.vbproj.GenerateResource.Cache
+C:\Users\Santy\Desktop\Precifine update18082015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.ReferredBy.resources
+C:\Users\Santy\Desktop\Precifine update18082015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.ReferredBydetails.resources
+C:\Users\Santy\Desktop\Precifine update18082015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Signatories.resources
+C:\Users\Santy\Desktop\Precifine update18082015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Signatoriesdetails.resources
+C:\Users\Santy\Desktop\Precifine update18082015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.AccountBook.resources
+C:\Users\Santy\Desktop\Precifine update18082015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.AccountBookdetails.resources
+C:\Users\Santy\Desktop\Precifine update18082015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Tax.resources
+C:\Users\Santy\Desktop\Precifine update18082015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Taxdetails.resources
+C:\Users\Lenovo\Desktop\software\Precifine update18082015new\Precifine\Precifine\bin\Debug\Precifine.exe.config
+C:\Users\Lenovo\Desktop\software\Precifine update18082015new\Precifine\Precifine\obj\x86\Debug\Precifine.exe
+C:\Users\Lenovo\Desktop\software\Precifine update18082015new\Precifine\Precifine\obj\x86\Debug\Precifine.xml
+C:\Users\Lenovo\Desktop\software\Precifine update18082015new\Precifine\Precifine\obj\x86\Debug\Precifine.pdb
+C:\Users\Lenovo\Desktop\software\Precifine update18082015new\Precifine\Precifine\bin\Debug\Precifine.exe
+C:\Users\Lenovo\Desktop\software\Precifine update18082015new\Precifine\Precifine\bin\Debug\Precifine.pdb
+C:\Users\Lenovo\Desktop\software\Precifine update18082015new\Precifine\Precifine\bin\Debug\Precifine.xml
+C:\Users\Lenovo\Desktop\software\Precifine update18082015new\Precifine\Precifine\bin\Debug\CustomGridView.dll
+C:\Users\Lenovo\Desktop\software\Precifine update18082015new\Precifine\Precifine\bin\Debug\CustomGridView.pdb
+C:\Users\Lenovo\Desktop\software\Precifine update18082015new\Precifine\Precifine\bin\Debug\CustomGridView.xml
+C:\Users\Lenovo\Desktop\software\Precifine update18082015new\Precifine\Precifine\obj\x86\Debug\Precifine.vbprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\software\Precifine update18082015new\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.CompanyYearsdetails.resources
+C:\Users\Lenovo\Desktop\software\Precifine update18082015new\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.AccountBook.resources
+C:\Users\Lenovo\Desktop\software\Precifine update18082015new\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.AccountBookdetails.resources
+C:\Users\Lenovo\Desktop\software\Precifine update18082015new\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.CompanyYears.resources
+C:\Users\Lenovo\Desktop\software\Precifine update18082015new\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Config.resources
+C:\Users\Lenovo\Desktop\software\Precifine update18082015new\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.ListCustomers.resources
+C:\Users\Lenovo\Desktop\software\Precifine update18082015new\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.frmlog.resources
+C:\Users\Lenovo\Desktop\software\Precifine update18082015new\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Main.resources
+C:\Users\Lenovo\Desktop\software\Precifine update18082015new\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Lenovo\Desktop\software\Precifine update18082015new\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Userdetails.resources
+C:\Users\Lenovo\Desktop\software\Precifine update18082015new\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Users.resources
+C:\Users\Lenovo\Desktop\software\Precifine update18082015new\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.ReferredBy.resources
+C:\Users\Lenovo\Desktop\software\Precifine update18082015new\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.ReferredBydetails.resources
+C:\Users\Lenovo\Desktop\software\Precifine update18082015new\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Signatories.resources
+C:\Users\Lenovo\Desktop\software\Precifine update18082015new\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Signatoriesdetails.resources
+C:\Users\Lenovo\Desktop\software\Precifine update18082015new\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Tax.resources
+C:\Users\Lenovo\Desktop\software\Precifine update18082015new\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Taxdetails.resources
+C:\Users\Lenovo\Desktop\software\Precifine update18082015new\Precifine\Precifine\obj\x86\Debug\Precifine.vbproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\software\Precifine update18082015new\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Assemblers.resources
+C:\Users\Lenovo\Desktop\software\Precifine update18082015new\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Assemblersdetails.resources
+C:\Users\Lenovo\Desktop\software\Precifine update18082015new\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Units.resources
+C:\Users\Lenovo\Desktop\software\Precifine update18082015new\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.UnitsDetails.resources
+C:\Users\Lenovo\Desktop\software\Precifine update18082015new\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.AssemblyRates.resources
+C:\Users\Lenovo\Desktop\software\Precifine update18082015new\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.AssemblyRatesdetails.resources
+C:\Users\Lenovo\Desktop\software\Precifine update18082015new\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Suppliers.resources
+C:\Users\Santy\Desktop\Precifine update19062015\Precifine\Precifine\bin\Debug\Precifine.exe.config
+C:\Users\Santy\Desktop\Precifine update19062015\Precifine\Precifine\obj\x86\Debug\Precifine.exe
+C:\Users\Santy\Desktop\Precifine update19062015\Precifine\Precifine\obj\x86\Debug\Precifine.xml
+C:\Users\Santy\Desktop\Precifine update19062015\Precifine\Precifine\obj\x86\Debug\Precifine.pdb
+C:\Users\Santy\Desktop\Precifine update19062015\Precifine\Precifine\bin\Debug\Precifine.exe
+C:\Users\Santy\Desktop\Precifine update19062015\Precifine\Precifine\bin\Debug\Precifine.pdb
+C:\Users\Santy\Desktop\Precifine update19062015\Precifine\Precifine\bin\Debug\Precifine.xml
+C:\Users\Santy\Desktop\Precifine update19062015\Precifine\Precifine\bin\Debug\CustomGridView.dll
+C:\Users\Santy\Desktop\Precifine update19062015\Precifine\Precifine\bin\Debug\CustomGridView.pdb
+C:\Users\Santy\Desktop\Precifine update19062015\Precifine\Precifine\bin\Debug\CustomGridView.xml
+C:\Users\Santy\Desktop\Precifine update19062015\Precifine\Precifine\obj\x86\Debug\Precifine.vbprojResolveAssemblyReference.cache
+C:\Users\Santy\Desktop\Precifine update19062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Assemblers.resources
+C:\Users\Santy\Desktop\Precifine update19062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Assemblersdetails.resources
+C:\Users\Santy\Desktop\Precifine update19062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.CompanyYearsdetails.resources
+C:\Users\Santy\Desktop\Precifine update19062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.AccountBook.resources
+C:\Users\Santy\Desktop\Precifine update19062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.AccountBookdetails.resources
+C:\Users\Santy\Desktop\Precifine update19062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.AssemblyRates.resources
+C:\Users\Santy\Desktop\Precifine update19062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.AssemblyRatesdetails.resources
+C:\Users\Santy\Desktop\Precifine update19062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.CompanyYears.resources
+C:\Users\Santy\Desktop\Precifine update19062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Config.resources
+C:\Users\Santy\Desktop\Precifine update19062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.ListCustomers.resources
+C:\Users\Santy\Desktop\Precifine update19062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Suppliers.resources
+C:\Users\Santy\Desktop\Precifine update19062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.frmlog.resources
+C:\Users\Santy\Desktop\Precifine update19062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Main.resources
+C:\Users\Santy\Desktop\Precifine update19062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Santy\Desktop\Precifine update19062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Userdetails.resources
+C:\Users\Santy\Desktop\Precifine update19062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Users.resources
+C:\Users\Santy\Desktop\Precifine update19062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.ReferredBy.resources
+C:\Users\Santy\Desktop\Precifine update19062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.ReferredBydetails.resources
+C:\Users\Santy\Desktop\Precifine update19062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Signatories.resources
+C:\Users\Santy\Desktop\Precifine update19062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Signatoriesdetails.resources
+C:\Users\Santy\Desktop\Precifine update19062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Tax.resources
+C:\Users\Santy\Desktop\Precifine update19062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Taxdetails.resources
+C:\Users\Santy\Desktop\Precifine update19062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Units.resources
+C:\Users\Santy\Desktop\Precifine update19062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.UnitsDetails.resources
+C:\Users\Santy\Desktop\Precifine update19062015\Precifine\Precifine\obj\x86\Debug\Precifine.vbproj.GenerateResource.Cache
+C:\Users\Santy\Desktop\Precifine update19062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.ItemProperties.resources
+C:\Users\Santy\Desktop\Precifine update19062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.ItemPropertiesdetails.resources
+C:\Users\Santy\Desktop\Precifine update19062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Items.resources
+C:\Users\Santy\Desktop\Precifine update19062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Itemdetails.resources
+C:\Users\Santy\Desktop\Precifine update19062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Itemsel.resources
+C:\Users\Santy\Desktop\Precifine update20062015\Precifine\Precifine\bin\Debug\Precifine.exe.config
+C:\Users\Santy\Desktop\Precifine update20062015\Precifine\Precifine\obj\x86\Debug\Precifine.exe
+C:\Users\Santy\Desktop\Precifine update20062015\Precifine\Precifine\obj\x86\Debug\Precifine.xml
+C:\Users\Santy\Desktop\Precifine update20062015\Precifine\Precifine\obj\x86\Debug\Precifine.pdb
+C:\Users\Santy\Desktop\Precifine update20062015\Precifine\Precifine\bin\Debug\Precifine.exe
+C:\Users\Santy\Desktop\Precifine update20062015\Precifine\Precifine\bin\Debug\Precifine.pdb
+C:\Users\Santy\Desktop\Precifine update20062015\Precifine\Precifine\bin\Debug\Precifine.xml
+C:\Users\Santy\Desktop\Precifine update20062015\Precifine\Precifine\bin\Debug\CustomGridView.dll
+C:\Users\Santy\Desktop\Precifine update20062015\Precifine\Precifine\bin\Debug\CustomGridView.pdb
+C:\Users\Santy\Desktop\Precifine update20062015\Precifine\Precifine\bin\Debug\CustomGridView.xml
+C:\Users\Santy\Desktop\Precifine update20062015\Precifine\Precifine\obj\x86\Debug\Precifine.vbprojResolveAssemblyReference.cache
+C:\Users\Santy\Desktop\Precifine update20062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Assemblers.resources
+C:\Users\Santy\Desktop\Precifine update20062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Assemblersdetails.resources
+C:\Users\Santy\Desktop\Precifine update20062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.CompanyYearsdetails.resources
+C:\Users\Santy\Desktop\Precifine update20062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.AccountBook.resources
+C:\Users\Santy\Desktop\Precifine update20062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.AccountBookdetails.resources
+C:\Users\Santy\Desktop\Precifine update20062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.AssemblyRates.resources
+C:\Users\Santy\Desktop\Precifine update20062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.AssemblyRatesdetails.resources
+C:\Users\Santy\Desktop\Precifine update20062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.CompanyYears.resources
+C:\Users\Santy\Desktop\Precifine update20062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Config.resources
+C:\Users\Santy\Desktop\Precifine update20062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.ListCustomers.resources
+C:\Users\Santy\Desktop\Precifine update20062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Suppliers.resources
+C:\Users\Santy\Desktop\Precifine update20062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Itemdetails.resources
+C:\Users\Santy\Desktop\Precifine update20062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.ItemProperties.resources
+C:\Users\Santy\Desktop\Precifine update20062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.ItemPropertiesdetails.resources
+C:\Users\Santy\Desktop\Precifine update20062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Items.resources
+C:\Users\Santy\Desktop\Precifine update20062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Itemsel.resources
+C:\Users\Santy\Desktop\Precifine update20062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.frmlog.resources
+C:\Users\Santy\Desktop\Precifine update20062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Main.resources
+C:\Users\Santy\Desktop\Precifine update20062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Santy\Desktop\Precifine update20062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Userdetails.resources
+C:\Users\Santy\Desktop\Precifine update20062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Users.resources
+C:\Users\Santy\Desktop\Precifine update20062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.ReferredBy.resources
+C:\Users\Santy\Desktop\Precifine update20062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.ReferredBydetails.resources
+C:\Users\Santy\Desktop\Precifine update20062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Signatories.resources
+C:\Users\Santy\Desktop\Precifine update20062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Signatoriesdetails.resources
+C:\Users\Santy\Desktop\Precifine update20062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Tax.resources
+C:\Users\Santy\Desktop\Precifine update20062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Taxdetails.resources
+C:\Users\Santy\Desktop\Precifine update20062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Units.resources
+C:\Users\Santy\Desktop\Precifine update20062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.UnitsDetails.resources
+C:\Users\Santy\Desktop\Precifine update20062015\Precifine\Precifine\obj\x86\Debug\Precifine.vbproj.GenerateResource.Cache
+C:\Users\Santy\Desktop\Precifine update20062015New\Precifine\Precifine\bin\Debug\Precifine.exe.config
+C:\Users\Santy\Desktop\Precifine update20062015New\Precifine\Precifine\obj\x86\Debug\Precifine.exe
+C:\Users\Santy\Desktop\Precifine update20062015New\Precifine\Precifine\obj\x86\Debug\Precifine.xml
+C:\Users\Santy\Desktop\Precifine update20062015New\Precifine\Precifine\obj\x86\Debug\Precifine.pdb
+C:\Users\Santy\Desktop\Precifine update20062015New\Precifine\Precifine\bin\Debug\Precifine.exe
+C:\Users\Santy\Desktop\Precifine update20062015New\Precifine\Precifine\bin\Debug\Precifine.pdb
+C:\Users\Santy\Desktop\Precifine update20062015New\Precifine\Precifine\bin\Debug\Precifine.xml
+C:\Users\Santy\Desktop\Precifine update20062015New\Precifine\Precifine\bin\Debug\CustomGridView.dll
+C:\Users\Santy\Desktop\Precifine update20062015New\Precifine\Precifine\bin\Debug\CustomGridView.pdb
+C:\Users\Santy\Desktop\Precifine update20062015New\Precifine\Precifine\bin\Debug\CustomGridView.xml
+C:\Users\Santy\Desktop\Precifine update20062015New\Precifine\Precifine\obj\x86\Debug\Precifine.vbprojResolveAssemblyReference.cache
+C:\Users\Santy\Desktop\Precifine update20062015New\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Assemblers.resources
+C:\Users\Santy\Desktop\Precifine update20062015New\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Assemblersdetails.resources
+C:\Users\Santy\Desktop\Precifine update20062015New\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.CompanyYearsdetails.resources
+C:\Users\Santy\Desktop\Precifine update20062015New\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.AccountBook.resources
+C:\Users\Santy\Desktop\Precifine update20062015New\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.AccountBookdetails.resources
+C:\Users\Santy\Desktop\Precifine update20062015New\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.AssemblyRates.resources
+C:\Users\Santy\Desktop\Precifine update20062015New\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.AssemblyRatesdetails.resources
+C:\Users\Santy\Desktop\Precifine update20062015New\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.CompanyYears.resources
+C:\Users\Santy\Desktop\Precifine update20062015New\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Config.resources
+C:\Users\Santy\Desktop\Precifine update20062015New\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.ListCustomers.resources
+C:\Users\Santy\Desktop\Precifine update20062015New\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Suppliers.resources
+C:\Users\Santy\Desktop\Precifine update20062015New\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.ItemProperties.resources
+C:\Users\Santy\Desktop\Precifine update20062015New\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.ItemPropertiesdetails.resources
+C:\Users\Santy\Desktop\Precifine update20062015New\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Items.resources
+C:\Users\Santy\Desktop\Precifine update20062015New\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Itemsel.resources
+C:\Users\Santy\Desktop\Precifine update20062015New\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.frmlog.resources
+C:\Users\Santy\Desktop\Precifine update20062015New\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Main.resources
+C:\Users\Santy\Desktop\Precifine update20062015New\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Santy\Desktop\Precifine update20062015New\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Userdetails.resources
+C:\Users\Santy\Desktop\Precifine update20062015New\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Users.resources
+C:\Users\Santy\Desktop\Precifine update20062015New\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.ReferredBy.resources
+C:\Users\Santy\Desktop\Precifine update20062015New\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.ReferredBydetails.resources
+C:\Users\Santy\Desktop\Precifine update20062015New\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Signatories.resources
+C:\Users\Santy\Desktop\Precifine update20062015New\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Signatoriesdetails.resources
+C:\Users\Santy\Desktop\Precifine update20062015New\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Tax.resources
+C:\Users\Santy\Desktop\Precifine update20062015New\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Taxdetails.resources
+C:\Users\Santy\Desktop\Precifine update20062015New\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Units.resources
+C:\Users\Santy\Desktop\Precifine update20062015New\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.UnitsDetails.resources
+C:\Users\Santy\Desktop\Precifine update20062015New\Precifine\Precifine\obj\x86\Debug\Precifine.vbproj.GenerateResource.Cache
+C:\Users\Santy\Desktop\Precifine update20062015New\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Itemaddsub.resources
+C:\Users\Santy\Desktop\Precifine update20062015New\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Labelling.resources
+C:\Users\Santy\Desktop\Precifine update22062015\Precifine\Precifine\bin\Debug\Precifine.exe.config
+C:\Users\Santy\Desktop\Precifine update22062015\Precifine\Precifine\obj\x86\Debug\Precifine.exe
+C:\Users\Santy\Desktop\Precifine update22062015\Precifine\Precifine\obj\x86\Debug\Precifine.xml
+C:\Users\Santy\Desktop\Precifine update22062015\Precifine\Precifine\obj\x86\Debug\Precifine.pdb
+C:\Users\Santy\Desktop\Precifine update22062015\Precifine\Precifine\bin\Debug\Precifine.exe
+C:\Users\Santy\Desktop\Precifine update22062015\Precifine\Precifine\bin\Debug\Precifine.pdb
+C:\Users\Santy\Desktop\Precifine update22062015\Precifine\Precifine\bin\Debug\Precifine.xml
+C:\Users\Santy\Desktop\Precifine update22062015\Precifine\Precifine\bin\Debug\CustomGridView.dll
+C:\Users\Santy\Desktop\Precifine update22062015\Precifine\Precifine\bin\Debug\CustomGridView.pdb
+C:\Users\Santy\Desktop\Precifine update22062015\Precifine\Precifine\bin\Debug\CustomGridView.xml
+C:\Users\Santy\Desktop\Precifine update22062015\Precifine\Precifine\obj\x86\Debug\Precifine.vbprojResolveAssemblyReference.cache
+C:\Users\Santy\Desktop\Precifine update22062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Assemblers.resources
+C:\Users\Santy\Desktop\Precifine update22062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Assemblersdetails.resources
+C:\Users\Santy\Desktop\Precifine update22062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.CompanyYearsdetails.resources
+C:\Users\Santy\Desktop\Precifine update22062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.AccountBook.resources
+C:\Users\Santy\Desktop\Precifine update22062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.AccountBookdetails.resources
+C:\Users\Santy\Desktop\Precifine update22062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.AssemblyRates.resources
+C:\Users\Santy\Desktop\Precifine update22062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.AssemblyRatesdetails.resources
+C:\Users\Santy\Desktop\Precifine update22062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.CompanyYears.resources
+C:\Users\Santy\Desktop\Precifine update22062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Config.resources
+C:\Users\Santy\Desktop\Precifine update22062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.ListCustomers.resources
+C:\Users\Santy\Desktop\Precifine update22062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Suppliers.resources
+C:\Users\Santy\Desktop\Precifine update22062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Itemaddsub.resources
+C:\Users\Santy\Desktop\Precifine update22062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.ItemProperties.resources
+C:\Users\Santy\Desktop\Precifine update22062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.ItemPropertiesdetails.resources
+C:\Users\Santy\Desktop\Precifine update22062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Items.resources
+C:\Users\Santy\Desktop\Precifine update22062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Itemsel.resources
+C:\Users\Santy\Desktop\Precifine update22062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Labelling.resources
+C:\Users\Santy\Desktop\Precifine update22062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.frmlog.resources
+C:\Users\Santy\Desktop\Precifine update22062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Main.resources
+C:\Users\Santy\Desktop\Precifine update22062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Santy\Desktop\Precifine update22062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Userdetails.resources
+C:\Users\Santy\Desktop\Precifine update22062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Users.resources
+C:\Users\Santy\Desktop\Precifine update22062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.ReferredBy.resources
+C:\Users\Santy\Desktop\Precifine update22062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.ReferredBydetails.resources
+C:\Users\Santy\Desktop\Precifine update22062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Signatories.resources
+C:\Users\Santy\Desktop\Precifine update22062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Signatoriesdetails.resources
+C:\Users\Santy\Desktop\Precifine update22062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Tax.resources
+C:\Users\Santy\Desktop\Precifine update22062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Taxdetails.resources
+C:\Users\Santy\Desktop\Precifine update22062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Units.resources
+C:\Users\Santy\Desktop\Precifine update22062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.UnitsDetails.resources
+C:\Users\Santy\Desktop\Precifine update22062015\Precifine\Precifine\obj\x86\Debug\Precifine.vbproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Precifine update22062015\Precifine\Precifine\bin\Debug\Precifine.exe.config
+C:\Users\Lenovo\Desktop\Precifine update22062015\Precifine\Precifine\obj\x86\Debug\Precifine.exe
+C:\Users\Lenovo\Desktop\Precifine update22062015\Precifine\Precifine\obj\x86\Debug\Precifine.xml
+C:\Users\Lenovo\Desktop\Precifine update22062015\Precifine\Precifine\obj\x86\Debug\Precifine.pdb
+C:\Users\Lenovo\Desktop\Precifine update22062015\Precifine\Precifine\bin\Debug\Precifine.exe
+C:\Users\Lenovo\Desktop\Precifine update22062015\Precifine\Precifine\bin\Debug\Precifine.pdb
+C:\Users\Lenovo\Desktop\Precifine update22062015\Precifine\Precifine\bin\Debug\Precifine.xml
+C:\Users\Lenovo\Desktop\Precifine update22062015\Precifine\Precifine\bin\Debug\CustomGridView.dll
+C:\Users\Lenovo\Desktop\Precifine update22062015\Precifine\Precifine\bin\Debug\CustomGridView.pdb
+C:\Users\Lenovo\Desktop\Precifine update22062015\Precifine\Precifine\bin\Debug\CustomGridView.xml
+C:\Users\Lenovo\Desktop\Precifine update22062015\Precifine\Precifine\obj\x86\Debug\Precifine.vbprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Precifine update22062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Assemblers.resources
+C:\Users\Lenovo\Desktop\Precifine update22062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Assemblersdetails.resources
+C:\Users\Lenovo\Desktop\Precifine update22062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.CompanyYearsdetails.resources
+C:\Users\Lenovo\Desktop\Precifine update22062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.AccountBook.resources
+C:\Users\Lenovo\Desktop\Precifine update22062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.AccountBookdetails.resources
+C:\Users\Lenovo\Desktop\Precifine update22062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.AssemblyRates.resources
+C:\Users\Lenovo\Desktop\Precifine update22062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.AssemblyRatesdetails.resources
+C:\Users\Lenovo\Desktop\Precifine update22062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.CompanyYears.resources
+C:\Users\Lenovo\Desktop\Precifine update22062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Config.resources
+C:\Users\Lenovo\Desktop\Precifine update22062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.ListCustomers.resources
+C:\Users\Lenovo\Desktop\Precifine update22062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Suppliers.resources
+C:\Users\Lenovo\Desktop\Precifine update22062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Itemaddsub.resources
+C:\Users\Lenovo\Desktop\Precifine update22062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.ItemProperties.resources
+C:\Users\Lenovo\Desktop\Precifine update22062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.ItemPropertiesdetails.resources
+C:\Users\Lenovo\Desktop\Precifine update22062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Items.resources
+C:\Users\Lenovo\Desktop\Precifine update22062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Itemsel.resources
+C:\Users\Lenovo\Desktop\Precifine update22062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Labelling.resources
+C:\Users\Lenovo\Desktop\Precifine update22062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.frmlog.resources
+C:\Users\Lenovo\Desktop\Precifine update22062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Main.resources
+C:\Users\Lenovo\Desktop\Precifine update22062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Lenovo\Desktop\Precifine update22062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Userdetails.resources
+C:\Users\Lenovo\Desktop\Precifine update22062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Users.resources
+C:\Users\Lenovo\Desktop\Precifine update22062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.ReferredBy.resources
+C:\Users\Lenovo\Desktop\Precifine update22062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.ReferredBydetails.resources
+C:\Users\Lenovo\Desktop\Precifine update22062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Signatories.resources
+C:\Users\Lenovo\Desktop\Precifine update22062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Signatoriesdetails.resources
+C:\Users\Lenovo\Desktop\Precifine update22062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Tax.resources
+C:\Users\Lenovo\Desktop\Precifine update22062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Taxdetails.resources
+C:\Users\Lenovo\Desktop\Precifine update22062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Units.resources
+C:\Users\Lenovo\Desktop\Precifine update22062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.UnitsDetails.resources
+C:\Users\Lenovo\Desktop\Precifine update22062015\Precifine\Precifine\obj\x86\Debug\Precifine.vbproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Precifine update22062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.ProductIdentifier.resources
+C:\Users\Santy\Desktop\Precifine update23062015\Precifine\Precifine\bin\Debug\Precifine.exe.config
+C:\Users\Santy\Desktop\Precifine update23062015\Precifine\Precifine\obj\x86\Debug\Precifine.exe
+C:\Users\Santy\Desktop\Precifine update23062015\Precifine\Precifine\obj\x86\Debug\Precifine.xml
+C:\Users\Santy\Desktop\Precifine update23062015\Precifine\Precifine\obj\x86\Debug\Precifine.pdb
+C:\Users\Santy\Desktop\Precifine update23062015\Precifine\Precifine\bin\Debug\Precifine.exe
+C:\Users\Santy\Desktop\Precifine update23062015\Precifine\Precifine\bin\Debug\Precifine.pdb
+C:\Users\Santy\Desktop\Precifine update23062015\Precifine\Precifine\bin\Debug\Precifine.xml
+C:\Users\Santy\Desktop\Precifine update23062015\Precifine\Precifine\bin\Debug\CustomGridView.dll
+C:\Users\Santy\Desktop\Precifine update23062015\Precifine\Precifine\bin\Debug\CustomGridView.pdb
+C:\Users\Santy\Desktop\Precifine update23062015\Precifine\Precifine\bin\Debug\CustomGridView.xml
+C:\Users\Santy\Desktop\Precifine update23062015\Precifine\Precifine\obj\x86\Debug\Precifine.vbprojResolveAssemblyReference.cache
+C:\Users\Santy\Desktop\Precifine update23062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Assemblers.resources
+C:\Users\Santy\Desktop\Precifine update23062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Assemblersdetails.resources
+C:\Users\Santy\Desktop\Precifine update23062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.CompanyYearsdetails.resources
+C:\Users\Santy\Desktop\Precifine update23062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.AccountBook.resources
+C:\Users\Santy\Desktop\Precifine update23062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.AccountBookdetails.resources
+C:\Users\Santy\Desktop\Precifine update23062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.AssemblyRates.resources
+C:\Users\Santy\Desktop\Precifine update23062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.AssemblyRatesdetails.resources
+C:\Users\Santy\Desktop\Precifine update23062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.CompanyYears.resources
+C:\Users\Santy\Desktop\Precifine update23062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Config.resources
+C:\Users\Santy\Desktop\Precifine update23062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.ListCustomers.resources
+C:\Users\Santy\Desktop\Precifine update23062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Suppliers.resources
+C:\Users\Santy\Desktop\Precifine update23062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Itemaddsub.resources
+C:\Users\Santy\Desktop\Precifine update23062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.ItemProperties.resources
+C:\Users\Santy\Desktop\Precifine update23062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.ItemPropertiesdetails.resources
+C:\Users\Santy\Desktop\Precifine update23062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Items.resources
+C:\Users\Santy\Desktop\Precifine update23062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Itemsel.resources
+C:\Users\Santy\Desktop\Precifine update23062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Labelling.resources
+C:\Users\Santy\Desktop\Precifine update23062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.frmlog.resources
+C:\Users\Santy\Desktop\Precifine update23062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Main.resources
+C:\Users\Santy\Desktop\Precifine update23062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Santy\Desktop\Precifine update23062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Userdetails.resources
+C:\Users\Santy\Desktop\Precifine update23062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Users.resources
+C:\Users\Santy\Desktop\Precifine update23062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.ReferredBy.resources
+C:\Users\Santy\Desktop\Precifine update23062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.ReferredBydetails.resources
+C:\Users\Santy\Desktop\Precifine update23062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Signatories.resources
+C:\Users\Santy\Desktop\Precifine update23062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Signatoriesdetails.resources
+C:\Users\Santy\Desktop\Precifine update23062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Tax.resources
+C:\Users\Santy\Desktop\Precifine update23062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Taxdetails.resources
+C:\Users\Santy\Desktop\Precifine update23062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Units.resources
+C:\Users\Santy\Desktop\Precifine update23062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.UnitsDetails.resources
+C:\Users\Santy\Desktop\Precifine update23062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.ProductIdentifier.resources
+C:\Users\Santy\Desktop\Precifine update23062015\Precifine\Precifine\obj\x86\Debug\Precifine.vbproj.GenerateResource.Cache
+C:\Users\Santy\Desktop\Precifine update23062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Quotation.resources
+C:\Users\Santy\Desktop\Precifine update23062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.QuotationMenu.resources
+C:\Users\Santy\Desktop\Precifine update23062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Productsel.resources
+C:\Users\Lenovo\Desktop\Precifine update24062015\Precifine\Precifine\bin\Debug\Precifine.exe.config
+C:\Users\Lenovo\Desktop\Precifine update24062015\Precifine\Precifine\obj\x86\Debug\Precifine.exe
+C:\Users\Lenovo\Desktop\Precifine update24062015\Precifine\Precifine\obj\x86\Debug\Precifine.xml
+C:\Users\Lenovo\Desktop\Precifine update24062015\Precifine\Precifine\obj\x86\Debug\Precifine.pdb
+C:\Users\Lenovo\Desktop\Precifine update24062015\Precifine\Precifine\bin\Debug\Precifine.exe
+C:\Users\Lenovo\Desktop\Precifine update24062015\Precifine\Precifine\bin\Debug\Precifine.pdb
+C:\Users\Lenovo\Desktop\Precifine update24062015\Precifine\Precifine\bin\Debug\Precifine.xml
+C:\Users\Lenovo\Desktop\Precifine update24062015\Precifine\Precifine\bin\Debug\CustomGridView.dll
+C:\Users\Lenovo\Desktop\Precifine update24062015\Precifine\Precifine\bin\Debug\CustomGridView.pdb
+C:\Users\Lenovo\Desktop\Precifine update24062015\Precifine\Precifine\bin\Debug\CustomGridView.xml
+C:\Users\Lenovo\Desktop\Precifine update24062015\Precifine\Precifine\obj\x86\Debug\Precifine.vbprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Precifine update24062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Assemblers.resources
+C:\Users\Lenovo\Desktop\Precifine update24062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Assemblersdetails.resources
+C:\Users\Lenovo\Desktop\Precifine update24062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.CompanyYearsdetails.resources
+C:\Users\Lenovo\Desktop\Precifine update24062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.AccountBook.resources
+C:\Users\Lenovo\Desktop\Precifine update24062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.AccountBookdetails.resources
+C:\Users\Lenovo\Desktop\Precifine update24062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.AssemblyRates.resources
+C:\Users\Lenovo\Desktop\Precifine update24062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.AssemblyRatesdetails.resources
+C:\Users\Lenovo\Desktop\Precifine update24062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.CompanyYears.resources
+C:\Users\Lenovo\Desktop\Precifine update24062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Config.resources
+C:\Users\Lenovo\Desktop\Precifine update24062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.ListCustomers.resources
+C:\Users\Lenovo\Desktop\Precifine update24062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Suppliers.resources
+C:\Users\Lenovo\Desktop\Precifine update24062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Productsel.resources
+C:\Users\Lenovo\Desktop\Precifine update24062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Quotation.resources
+C:\Users\Lenovo\Desktop\Precifine update24062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.QuotationMenu.resources
+C:\Users\Lenovo\Desktop\Precifine update24062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Itemaddsub.resources
+C:\Users\Lenovo\Desktop\Precifine update24062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.ItemProperties.resources
+C:\Users\Lenovo\Desktop\Precifine update24062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.ItemPropertiesdetails.resources
+C:\Users\Lenovo\Desktop\Precifine update24062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Items.resources
+C:\Users\Lenovo\Desktop\Precifine update24062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Itemsel.resources
+C:\Users\Lenovo\Desktop\Precifine update24062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Labelling.resources
+C:\Users\Lenovo\Desktop\Precifine update24062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.frmlog.resources
+C:\Users\Lenovo\Desktop\Precifine update24062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Main.resources
+C:\Users\Lenovo\Desktop\Precifine update24062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Lenovo\Desktop\Precifine update24062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Userdetails.resources
+C:\Users\Lenovo\Desktop\Precifine update24062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Users.resources
+C:\Users\Lenovo\Desktop\Precifine update24062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.ReferredBy.resources
+C:\Users\Lenovo\Desktop\Precifine update24062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.ReferredBydetails.resources
+C:\Users\Lenovo\Desktop\Precifine update24062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Signatories.resources
+C:\Users\Lenovo\Desktop\Precifine update24062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Signatoriesdetails.resources
+C:\Users\Lenovo\Desktop\Precifine update24062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Tax.resources
+C:\Users\Lenovo\Desktop\Precifine update24062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Taxdetails.resources
+C:\Users\Lenovo\Desktop\Precifine update24062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Units.resources
+C:\Users\Lenovo\Desktop\Precifine update24062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.UnitsDetails.resources
+C:\Users\Lenovo\Desktop\Precifine update24062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.ProductIdentifier.resources
+C:\Users\Lenovo\Desktop\Precifine update24062015\Precifine\Precifine\obj\x86\Debug\Precifine.vbproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Precifine update24062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.CSheet.resources
+C:\Users\Lenovo\Desktop\Precifine update24062015\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Custsel.resources
+C:\Users\Santy\Desktop\Precifine update24062015new\Precifine\Precifine\bin\Debug\Precifine.exe.config
+C:\Users\Santy\Desktop\Precifine update24062015new\Precifine\Precifine\obj\x86\Debug\Precifine.exe
+C:\Users\Santy\Desktop\Precifine update24062015new\Precifine\Precifine\obj\x86\Debug\Precifine.xml
+C:\Users\Santy\Desktop\Precifine update24062015new\Precifine\Precifine\obj\x86\Debug\Precifine.pdb
+C:\Users\Santy\Desktop\Precifine update24062015new\Precifine\Precifine\bin\Debug\Precifine.exe
+C:\Users\Santy\Desktop\Precifine update24062015new\Precifine\Precifine\bin\Debug\Precifine.pdb
+C:\Users\Santy\Desktop\Precifine update24062015new\Precifine\Precifine\bin\Debug\Precifine.xml
+C:\Users\Santy\Desktop\Precifine update24062015new\Precifine\Precifine\bin\Debug\CustomGridView.dll
+C:\Users\Santy\Desktop\Precifine update24062015new\Precifine\Precifine\bin\Debug\CustomGridView.pdb
+C:\Users\Santy\Desktop\Precifine update24062015new\Precifine\Precifine\bin\Debug\CustomGridView.xml
+C:\Users\Santy\Desktop\Precifine update24062015new\Precifine\Precifine\obj\x86\Debug\Precifine.vbprojResolveAssemblyReference.cache
+C:\Users\Santy\Desktop\Precifine update24062015new\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Assemblers.resources
+C:\Users\Santy\Desktop\Precifine update24062015new\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Assemblersdetails.resources
+C:\Users\Santy\Desktop\Precifine update24062015new\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.CompanyYearsdetails.resources
+C:\Users\Santy\Desktop\Precifine update24062015new\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.AccountBook.resources
+C:\Users\Santy\Desktop\Precifine update24062015new\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.AccountBookdetails.resources
+C:\Users\Santy\Desktop\Precifine update24062015new\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.AssemblyRates.resources
+C:\Users\Santy\Desktop\Precifine update24062015new\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.AssemblyRatesdetails.resources
+C:\Users\Santy\Desktop\Precifine update24062015new\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.CompanyYears.resources
+C:\Users\Santy\Desktop\Precifine update24062015new\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Config.resources
+C:\Users\Santy\Desktop\Precifine update24062015new\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.ListCustomers.resources
+C:\Users\Santy\Desktop\Precifine update24062015new\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Suppliers.resources
+C:\Users\Santy\Desktop\Precifine update24062015new\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Custsel.resources
+C:\Users\Santy\Desktop\Precifine update24062015new\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.CSheet.resources
+C:\Users\Santy\Desktop\Precifine update24062015new\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Productsel.resources
+C:\Users\Santy\Desktop\Precifine update24062015new\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Quotation.resources
+C:\Users\Santy\Desktop\Precifine update24062015new\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.QuotationMenu.resources
+C:\Users\Santy\Desktop\Precifine update24062015new\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Itemaddsub.resources
+C:\Users\Santy\Desktop\Precifine update24062015new\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.ItemProperties.resources
+C:\Users\Santy\Desktop\Precifine update24062015new\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.ItemPropertiesdetails.resources
+C:\Users\Santy\Desktop\Precifine update24062015new\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Items.resources
+C:\Users\Santy\Desktop\Precifine update24062015new\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Itemsel.resources
+C:\Users\Santy\Desktop\Precifine update24062015new\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Labelling.resources
+C:\Users\Santy\Desktop\Precifine update24062015new\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.frmlog.resources
+C:\Users\Santy\Desktop\Precifine update24062015new\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Main.resources
+C:\Users\Santy\Desktop\Precifine update24062015new\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Santy\Desktop\Precifine update24062015new\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Userdetails.resources
+C:\Users\Santy\Desktop\Precifine update24062015new\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Users.resources
+C:\Users\Santy\Desktop\Precifine update24062015new\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.ReferredBy.resources
+C:\Users\Santy\Desktop\Precifine update24062015new\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.ReferredBydetails.resources
+C:\Users\Santy\Desktop\Precifine update24062015new\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Signatories.resources
+C:\Users\Santy\Desktop\Precifine update24062015new\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Signatoriesdetails.resources
+C:\Users\Santy\Desktop\Precifine update24062015new\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Tax.resources
+C:\Users\Santy\Desktop\Precifine update24062015new\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Taxdetails.resources
+C:\Users\Santy\Desktop\Precifine update24062015new\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Units.resources
+C:\Users\Santy\Desktop\Precifine update24062015new\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.UnitsDetails.resources
+C:\Users\Santy\Desktop\Precifine update24062015new\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.ProductIdentifier.resources
+C:\Users\Santy\Desktop\Precifine update24062015new\Precifine\Precifine\obj\x86\Debug\Precifine.vbproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Precisoft\Precifine update250615\Precifine\Precifine\bin\Debug\Precifine.exe.config
+C:\Users\Lenovo\Desktop\Precisoft\Precifine update250615\Precifine\Precifine\obj\x86\Debug\Precifine.exe
+C:\Users\Lenovo\Desktop\Precisoft\Precifine update250615\Precifine\Precifine\obj\x86\Debug\Precifine.xml
+C:\Users\Lenovo\Desktop\Precisoft\Precifine update250615\Precifine\Precifine\obj\x86\Debug\Precifine.pdb
+C:\Users\Lenovo\Desktop\Precisoft\Precifine update250615\Precifine\Precifine\bin\Debug\Precifine.exe
+C:\Users\Lenovo\Desktop\Precisoft\Precifine update250615\Precifine\Precifine\bin\Debug\Precifine.pdb
+C:\Users\Lenovo\Desktop\Precisoft\Precifine update250615\Precifine\Precifine\bin\Debug\Precifine.xml
+C:\Users\Lenovo\Desktop\Precisoft\Precifine update250615\Precifine\Precifine\bin\Debug\CustomGridView.dll
+C:\Users\Lenovo\Desktop\Precisoft\Precifine update250615\Precifine\Precifine\bin\Debug\CustomGridView.pdb
+C:\Users\Lenovo\Desktop\Precisoft\Precifine update250615\Precifine\Precifine\bin\Debug\CustomGridView.xml
+C:\Users\Lenovo\Desktop\Precisoft\Precifine update250615\Precifine\Precifine\obj\x86\Debug\Precifine.vbprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Precisoft\Precifine update250615\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Assemblers.resources
+C:\Users\Lenovo\Desktop\Precisoft\Precifine update250615\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Assemblersdetails.resources
+C:\Users\Lenovo\Desktop\Precisoft\Precifine update250615\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.CompanyYearsdetails.resources
+C:\Users\Lenovo\Desktop\Precisoft\Precifine update250615\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.AccountBook.resources
+C:\Users\Lenovo\Desktop\Precisoft\Precifine update250615\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.AccountBookdetails.resources
+C:\Users\Lenovo\Desktop\Precisoft\Precifine update250615\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.AssemblyRates.resources
+C:\Users\Lenovo\Desktop\Precisoft\Precifine update250615\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.AssemblyRatesdetails.resources
+C:\Users\Lenovo\Desktop\Precisoft\Precifine update250615\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.CompanyYears.resources
+C:\Users\Lenovo\Desktop\Precisoft\Precifine update250615\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Config.resources
+C:\Users\Lenovo\Desktop\Precisoft\Precifine update250615\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.ListCustomers.resources
+C:\Users\Lenovo\Desktop\Precisoft\Precifine update250615\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Suppliers.resources
+C:\Users\Lenovo\Desktop\Precisoft\Precifine update250615\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Custsel.resources
+C:\Users\Lenovo\Desktop\Precisoft\Precifine update250615\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.CSheet.resources
+C:\Users\Lenovo\Desktop\Precisoft\Precifine update250615\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Productsel.resources
+C:\Users\Lenovo\Desktop\Precisoft\Precifine update250615\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Quotation.resources
+C:\Users\Lenovo\Desktop\Precisoft\Precifine update250615\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.QuotationMenu.resources
+C:\Users\Lenovo\Desktop\Precisoft\Precifine update250615\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Itemaddsub.resources
+C:\Users\Lenovo\Desktop\Precisoft\Precifine update250615\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.ItemProperties.resources
+C:\Users\Lenovo\Desktop\Precisoft\Precifine update250615\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.ItemPropertiesdetails.resources
+C:\Users\Lenovo\Desktop\Precisoft\Precifine update250615\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Items.resources
+C:\Users\Lenovo\Desktop\Precisoft\Precifine update250615\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Itemsel.resources
+C:\Users\Lenovo\Desktop\Precisoft\Precifine update250615\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Labelling.resources
+C:\Users\Lenovo\Desktop\Precisoft\Precifine update250615\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.frmlog.resources
+C:\Users\Lenovo\Desktop\Precisoft\Precifine update250615\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Main.resources
+C:\Users\Lenovo\Desktop\Precisoft\Precifine update250615\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Lenovo\Desktop\Precisoft\Precifine update250615\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Userdetails.resources
+C:\Users\Lenovo\Desktop\Precisoft\Precifine update250615\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Users.resources
+C:\Users\Lenovo\Desktop\Precisoft\Precifine update250615\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.ReferredBy.resources
+C:\Users\Lenovo\Desktop\Precisoft\Precifine update250615\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.ReferredBydetails.resources
+C:\Users\Lenovo\Desktop\Precisoft\Precifine update250615\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Signatories.resources
+C:\Users\Lenovo\Desktop\Precisoft\Precifine update250615\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Signatoriesdetails.resources
+C:\Users\Lenovo\Desktop\Precisoft\Precifine update250615\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Tax.resources
+C:\Users\Lenovo\Desktop\Precisoft\Precifine update250615\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Taxdetails.resources
+C:\Users\Lenovo\Desktop\Precisoft\Precifine update250615\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.Units.resources
+C:\Users\Lenovo\Desktop\Precisoft\Precifine update250615\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.UnitsDetails.resources
+C:\Users\Lenovo\Desktop\Precisoft\Precifine update250615\Precifine\Precifine\obj\x86\Debug\WindowsApplication1.ProductIdentifier.resources
+C:\Users\Lenovo\Desktop\Precisoft\Precifine update250615\Precifine\Precifine\obj\x86\Debug\Precifine.vbproj.GenerateResource.Cache
